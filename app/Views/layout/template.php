@@ -19,6 +19,8 @@
     <link rel="stylesheet" href="<?=base_url()?>/template/assets/gis/css/qgis2web.css">
     <link rel="stylesheet" href="<?=base_url()?>/template/assets/gis/css/fontawesome-all.min.css">
     <link rel="stylesheet" href="<?=base_url()?>/template/assets/gis/css/leaflet-measure.css">
+    <link rel="stylesheet" href="<?=base_url()?>/template/assets/gis/css/MarkerCluster.css">
+    <link rel="stylesheet" href="<?=base_url()?>/template/assets/gis/css/MarkerCluster.Default.css">
 </head>
 
 <body>
@@ -91,6 +93,8 @@
 
 <script src="<?=base_url()?>/template/assets/gis/js/qgis2web_expressions.js"></script>
 <script src="<?=base_url()?>/template/assets/gis/js/leaflet.js"></script>
+<script src="<?=base_url()?>/template/assets/gis/js/multi-style-layer.js"></script>
+<script src="<?=base_url()?>/template/assets/gis/js/leaflet-svg-shape-markers.min.js"></script>
 <script src="<?=base_url()?>/template/assets/gis/js/leaflet.rotatedMarker.js"></script>
 <script src="<?=base_url()?>/template/assets/gis/js/leaflet.pattern.js"></script>
 <script src="<?=base_url()?>/template/assets/gis/js/leaflet-hash.js"></script>
@@ -99,8 +103,20 @@
 <script src="<?=base_url()?>/template/assets/gis/js/labelgun.min.js"></script>
 <script src="<?=base_url()?>/template/assets/gis/js/labels.js"></script>
 <script src="<?=base_url()?>/template/assets/gis/js/leaflet-measure.js"></script>
-<script src="<?=base_url()?>/template/assets/gis/data/NilaiLahan_KecamatanNgombol_1.js"></script>
-<script src="<?=base_url()?>/template/assets/gis/data/BatasAdmin_2.js"></script>
+<script src="<?=base_url()?>/template/assets/gis/data/BatasAdmin_1.js"></script>
+<script src="<?=base_url()?>/template/assets/gis/data/13_Posyandu_2.js"></script>
+<script src="<?=base_url()?>/template/assets/gis/data/12_Posbindu_3.js"></script>
+<script src="<?=base_url()?>/template/assets/gis/data/11_Puskesmas_4.js"></script>
+<script src="<?=base_url()?>/template/assets/gis/data/10_BANK_5.js"></script>
+<script src="<?=base_url()?>/template/assets/gis/data/9_PASAR_6.js"></script>
+<script src="<?=base_url()?>/template/assets/gis/data/8_KantorDesa_7.js"></script>
+<script src="<?=base_url()?>/template/assets/gis/data/7_SMA_SMK_8.js"></script>
+<script src="<?=base_url()?>/template/assets/gis/data/6_SMP_9.js"></script>
+<script src="<?=base_url()?>/template/assets/gis/data/5_SD_10.js"></script>
+<script src="<?=base_url()?>/template/assets/gis/data/4_TK_11.js"></script>
+<script src="<?=base_url()?>/template/assets/gis/data/3_Kantor_Polisi_12.js"></script>
+<script src="<?=base_url()?>/template/assets/gis/data/2_MUSHOLA_100_13.js"></script>
+<script src="<?=base_url()?>/template/assets/gis/data/1_MASJID_14.js"></script>
 <?= $this->renderSection('script') ?>
 
 <!-- Template JS File -->
