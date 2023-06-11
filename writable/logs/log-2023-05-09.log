@@ -1,0 +1,409 @@
+INFO - 2023-05-09 08:07:48 --> REDIRECTED ROUTE at /dashboard
+INFO - 2023-05-09 08:07:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-09 08:07:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$admin is deprecated in APPPATH\Controllers\Auth.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+INFO - 2023-05-09 08:07:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-09 08:08:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$admin is deprecated in APPPATH\Controllers\Auth.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+INFO - 2023-05-09 08:08:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-09 08:08:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$admin is deprecated in APPPATH\Controllers\Auth.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+INFO - 2023-05-09 08:08:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-09 08:09:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$admin is deprecated in APPPATH\Controllers\Auth.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+INFO - 2023-05-09 08:09:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-09 08:09:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-09 08:50:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-09 08:51:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-09 08:55:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-09 08:55:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-09 08:56:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-09 08:59:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-09 09:00:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-09 09:01:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-09 09:02:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-09 09:02:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-09 09:03:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-09 09:06:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-09 09:08:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-09 09:09:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-09 09:10:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-09 09:11:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-09 09:12:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-09 09:12:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-09 09:16:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-09 09:16:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-09 09:17:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-09 09:18:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-09 09:21:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-09 09:22:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-09 09:22:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-09 09:25:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-09 09:29:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-09 09:29:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\Keypoint::$formkp is deprecated in APPPATH\Controllers\Keypoint.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Keypoint->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+WARNING - 2023-05-09 09:29:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\Keypoint::$komkp is deprecated in APPPATH\Controllers\Keypoint.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Keypoint->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+WARNING - 2023-05-09 09:29:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\Keypoint::$picmaster is deprecated in APPPATH\Controllers\Keypoint.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Keypoint->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+WARNING - 2023-05-09 09:29:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\Keypoint::$medkom is deprecated in APPPATH\Controllers\Keypoint.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Keypoint->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+WARNING - 2023-05-09 09:29:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\Keypoint::$merklbs is deprecated in APPPATH\Controllers\Keypoint.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Keypoint->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+WARNING - 2023-05-09 09:29:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\Keypoint::$garduinduk is deprecated in APPPATH\Controllers\Keypoint.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Keypoint->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+WARNING - 2023-05-09 09:29:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\Keypoint::$modem is deprecated in APPPATH\Controllers\Keypoint.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Keypoint->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+WARNING - 2023-05-09 09:29:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\Keypoint::$sectoral is deprecated in APPPATH\Controllers\Keypoint.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Keypoint->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+WARNING - 2023-05-09 09:29:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\Keypoint::$admin is deprecated in APPPATH\Controllers\Keypoint.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Keypoint->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+INFO - 2023-05-09 09:29:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-09 09:29:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Keypoint::$formkp is deprecated in APPPATH\Controllers\Keypoint.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Keypoint->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+WARNING - 2023-05-09 09:29:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Keypoint::$komkp is deprecated in APPPATH\Controllers\Keypoint.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Keypoint->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+WARNING - 2023-05-09 09:29:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Keypoint::$picmaster is deprecated in APPPATH\Controllers\Keypoint.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Keypoint->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+WARNING - 2023-05-09 09:29:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Keypoint::$medkom is deprecated in APPPATH\Controllers\Keypoint.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Keypoint->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+WARNING - 2023-05-09 09:29:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Keypoint::$merklbs is deprecated in APPPATH\Controllers\Keypoint.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Keypoint->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+WARNING - 2023-05-09 09:29:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Keypoint::$garduinduk is deprecated in APPPATH\Controllers\Keypoint.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Keypoint->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+WARNING - 2023-05-09 09:29:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Keypoint::$modem is deprecated in APPPATH\Controllers\Keypoint.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Keypoint->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+WARNING - 2023-05-09 09:29:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Keypoint::$sectoral is deprecated in APPPATH\Controllers\Keypoint.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Keypoint->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+WARNING - 2023-05-09 09:29:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Keypoint::$admin is deprecated in APPPATH\Controllers\Keypoint.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Keypoint->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+INFO - 2023-05-09 09:29:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-09 09:29:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penyulang::$formpeny is deprecated in APPPATH\Controllers\Penyulang.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Penyulang->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+WARNING - 2023-05-09 09:29:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penyulang::$komkp is deprecated in APPPATH\Controllers\Penyulang.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Penyulang->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+WARNING - 2023-05-09 09:29:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penyulang::$picmaster is deprecated in APPPATH\Controllers\Penyulang.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Penyulang->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+WARNING - 2023-05-09 09:29:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penyulang::$medkom is deprecated in APPPATH\Controllers\Penyulang.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Penyulang->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+WARNING - 2023-05-09 09:29:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penyulang::$garduinduk is deprecated in APPPATH\Controllers\Penyulang.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Penyulang->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+WARNING - 2023-05-09 09:29:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penyulang::$modem is deprecated in APPPATH\Controllers\Penyulang.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Penyulang->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+WARNING - 2023-05-09 09:29:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penyulang::$sectoral is deprecated in APPPATH\Controllers\Penyulang.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Penyulang->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+WARNING - 2023-05-09 09:29:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penyulang::$admin is deprecated in APPPATH\Controllers\Penyulang.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Penyulang->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+WARNING - 2023-05-09 09:29:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penyulang::$merkrtugi is deprecated in APPPATH\Controllers\Penyulang.php on line 30.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Penyulang->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+INFO - 2023-05-09 09:29:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-09 09:29:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\Absen::$absensi is deprecated in APPPATH\Controllers\Absen.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Absen->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+WARNING - 2023-05-09 09:29:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\Absen::$masuk is deprecated in APPPATH\Controllers\Absen.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Absen->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+INFO - 2023-05-09 09:29:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-09 09:29:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penyulang::$formpeny is deprecated in APPPATH\Controllers\Penyulang.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Penyulang->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+WARNING - 2023-05-09 09:29:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penyulang::$komkp is deprecated in APPPATH\Controllers\Penyulang.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Penyulang->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+WARNING - 2023-05-09 09:29:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penyulang::$picmaster is deprecated in APPPATH\Controllers\Penyulang.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Penyulang->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+WARNING - 2023-05-09 09:29:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penyulang::$medkom is deprecated in APPPATH\Controllers\Penyulang.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Penyulang->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+WARNING - 2023-05-09 09:29:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penyulang::$garduinduk is deprecated in APPPATH\Controllers\Penyulang.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Penyulang->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+WARNING - 2023-05-09 09:29:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penyulang::$modem is deprecated in APPPATH\Controllers\Penyulang.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Penyulang->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+WARNING - 2023-05-09 09:29:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penyulang::$sectoral is deprecated in APPPATH\Controllers\Penyulang.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Penyulang->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+WARNING - 2023-05-09 09:29:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penyulang::$admin is deprecated in APPPATH\Controllers\Penyulang.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Penyulang->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+WARNING - 2023-05-09 09:29:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penyulang::$merkrtugi is deprecated in APPPATH\Controllers\Penyulang.php on line 30.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Penyulang->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+INFO - 2023-05-09 09:29:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-09 09:29:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penyulang::$formpeny is deprecated in APPPATH\Controllers\Penyulang.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Penyulang->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+WARNING - 2023-05-09 09:29:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penyulang::$komkp is deprecated in APPPATH\Controllers\Penyulang.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Penyulang->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+WARNING - 2023-05-09 09:29:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penyulang::$picmaster is deprecated in APPPATH\Controllers\Penyulang.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Penyulang->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+WARNING - 2023-05-09 09:29:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penyulang::$medkom is deprecated in APPPATH\Controllers\Penyulang.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Penyulang->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+WARNING - 2023-05-09 09:29:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penyulang::$garduinduk is deprecated in APPPATH\Controllers\Penyulang.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Penyulang->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+WARNING - 2023-05-09 09:29:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penyulang::$modem is deprecated in APPPATH\Controllers\Penyulang.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Penyulang->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+WARNING - 2023-05-09 09:29:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penyulang::$sectoral is deprecated in APPPATH\Controllers\Penyulang.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Penyulang->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+WARNING - 2023-05-09 09:29:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penyulang::$admin is deprecated in APPPATH\Controllers\Penyulang.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Penyulang->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+WARNING - 2023-05-09 09:29:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penyulang::$merkrtugi is deprecated in APPPATH\Controllers\Penyulang.php on line 30.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Penyulang->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+INFO - 2023-05-09 09:37:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-09 09:37:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penyulang::$formpeny is deprecated in APPPATH\Controllers\Penyulang.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Penyulang->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+WARNING - 2023-05-09 09:37:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penyulang::$komkp is deprecated in APPPATH\Controllers\Penyulang.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Penyulang->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+WARNING - 2023-05-09 09:37:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penyulang::$picmaster is deprecated in APPPATH\Controllers\Penyulang.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Penyulang->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+WARNING - 2023-05-09 09:37:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penyulang::$medkom is deprecated in APPPATH\Controllers\Penyulang.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Penyulang->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+WARNING - 2023-05-09 09:37:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penyulang::$garduinduk is deprecated in APPPATH\Controllers\Penyulang.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Penyulang->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+WARNING - 2023-05-09 09:37:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penyulang::$modem is deprecated in APPPATH\Controllers\Penyulang.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Penyulang->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+WARNING - 2023-05-09 09:37:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penyulang::$sectoral is deprecated in APPPATH\Controllers\Penyulang.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Penyulang->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+WARNING - 2023-05-09 09:37:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penyulang::$admin is deprecated in APPPATH\Controllers\Penyulang.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Penyulang->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+WARNING - 2023-05-09 09:37:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penyulang::$merkrtugi is deprecated in APPPATH\Controllers\Penyulang.php on line 30.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Penyulang->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\rimuru\\Development\\web-komisioning\\public\\index.php')
+INFO - 2023-05-09 09:37:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-09 09:37:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-09 09:40:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-09 09:43:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-09 09:44:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-09 09:48:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-09 09:49:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-09 09:50:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-09 09:50:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
